@@ -29,4 +29,4 @@ python Calculator.py
 
 ## Screenshot
 
-*(You can add a screenshot here later.)*
+![Calculator Screenshot](Calculator/image/Calculator.png)
